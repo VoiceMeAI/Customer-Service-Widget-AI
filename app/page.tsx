@@ -19,7 +19,7 @@ export default function Home() {
             description="Get instant answers from our AI assistant with sentiment analysis and suggested actions."
           />
           <FeatureCard
-            title="Human Escalation"
+            title="Human Escalation Requests"
             description="Seamlessly connect with a human support agent when you need personalized assistance."
           />
           <FeatureCard

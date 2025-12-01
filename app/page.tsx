@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="grid gap-8 md:grid-cols-2">
           <FeatureCard
-            title="AI-Powered Sentiment Analysis"
+            title="AI-Powered Sentiment Response Analysis"
             description="Get instant answers from our AI assistant with sentiment analysis and suggested actions."
           />
           <FeatureCard
